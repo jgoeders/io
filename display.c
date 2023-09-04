@@ -5,7 +5,7 @@
 #include "display.h"
 #include "lcd.h"
 #include "log.h"
-#include "../fonts/fonts.h"
+#include "fonts/fonts.h"
 
 #define ARRAY_LEN 255
 
