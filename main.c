@@ -6,7 +6,7 @@
 #include "device.h"
 #include "display.h"
 #include "log.h"
-#include "../fonts/fonts.h"
+#include "fonts/fonts.h"
 
 /* DEFAULT COLORS */
 #define BACKGROUND_COLOR WHITE
