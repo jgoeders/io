@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-#include "../fonts/fonts.h"
+#include "fonts/fonts.h"
 #include "colors.h"
 
 #define DISPLAY_WIDTH 128
